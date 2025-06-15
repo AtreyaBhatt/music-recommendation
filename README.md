@@ -32,7 +32,6 @@ The goal is to **embed each track into a dense vector space** such that similar 
 - **PyTorch** – for neural networks and embedding layers
 - **PyNNDescent** – for fast approximate nearest neighbor search
 - **NumPy**, **Pandas** – for data processing
-- **Matplotlib / Seaborn** – for EDA and visualization (if included)
 
 ---
 
