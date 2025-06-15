@@ -68,11 +68,7 @@ Each song is described using a variety of features:
 
 ## 📁 File Structure
 
-reccomender/
-├── reccomender.ipynb
-├── LICENSE
-├── README.md
-└── requirements.txt
+<pre> reccomender/ ├── reccomender.ipynb # Main notebook with all code ├── LICENSE # MIT License ├── README.md # Project overview and instructions └── requirements.txt # Dependencies for the project </pre>
 
 ---
 
