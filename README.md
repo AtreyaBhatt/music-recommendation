@@ -69,11 +69,10 @@ Each song is described using a variety of features:
 ## 📁 File Structure
 
 reccomender/
-├── reccomender.ipynb # Main notebook with all logic
-├── data/ # (optional) Folder for raw/processed datasets
-├── LICENSE # MIT License (recommended)
-├── README.md # This file
-└── requirements.txt # List of dependencies (can be auto-generated)
+├── reccomender.ipynb
+├── LICENSE
+├── README.md
+└── requirements.txt
 
 ---
 
