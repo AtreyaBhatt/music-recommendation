@@ -32,7 +32,6 @@ The goal is to **embed each track into a dense vector space** such that similar 
 - **PyTorch** – for neural networks and embedding layers
 - **PyNNDescent** – for fast approximate nearest neighbor search
 - **NumPy**, **Pandas** – for data processing
-- **Matplotlib / Seaborn** – for EDA and visualization (if included)
 
 ---
 
@@ -42,6 +41,16 @@ The goal is to **embed each track into a dense vector space** such that similar 
 - Learns **dense vector embeddings** from high-dimensional multi-hot and numerical data
 - Uses **PyNNDescent** for fast nearest-neighbor queries in embedding space
 - Produces **recommendations based on learned similarity**, not just genre overlap
+
+---
+
+## 📊 Dataset
+
+The dataset used for this project is publicly available on Kaggle:  
+👉 [Spotify Music Data (Kaggle)](https://www.kaggle.com/datasets/devdope/900k-spotify)
+
+> **Note:** Due to file size and licensing limitations, the dataset is not included in this repository.  
+> Please download it manually from Kaggle and place it in a local main directory before running the notebook.
 
 ---
 
