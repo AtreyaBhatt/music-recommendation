@@ -68,11 +68,11 @@ Each song is described using a variety of features:
 
 ## 📁 File Structure
 
-reccomender/
-├── reccomender.ipynb       # Main Jupyter notebook
-├── LICENSE                 # MIT license for open-source usage
-├── README.md               # Project documentation (you’re reading it!)
-└── requirements.txt        # Python dependencies
+<p>reccomender/</p>
+<p>├── reccomender.ipynb</p>
+<p>├── LICENSE</p>
+<p>├── README.md</p>
+<p>└── requirements.txt</p>
 
 ---
 
