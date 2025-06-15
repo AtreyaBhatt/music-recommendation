@@ -45,6 +45,16 @@ The goal is to **embed each track into a dense vector space** such that similar 
 
 ---
 
+## 📊 Dataset
+
+The dataset used for this project is publicly available on Kaggle:  
+👉 [Spotify Music Data (Kaggle)](https://www.kaggle.com/datasets/zaheenhamidani/ultimate-spotify-tracks-db)
+
+> **Note:** Due to file size and licensing limitations, the dataset is not included in this repository.  
+> Please download it manually from Kaggle and place it in a local `data/` directory before running the notebook.
+
+---
+
 ## 🔍 Input Features
 
 Each song is described using a variety of features:
