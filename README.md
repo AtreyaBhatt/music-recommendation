@@ -68,11 +68,11 @@ Each song is described using a variety of features:
 
 ## 📁 File Structure
 
-<p>reccomender/</p>
-<p>├── reccomender.ipynb</p>
-<p>├── LICENSE</p>
-<p>├── README.md</p>
-<p>└── requirements.txt</p>
+<p>reccomender/
+├── reccomender.ipynb
+├── LICENSE
+├── README.md
+└── requirements.txt</p>
 
 ---
 
